@@ -1,5 +1,5 @@
 {
-	"variation":{
+	"variation":[
 		{
 			"id": 1,
 			"name": "Team1 Win"
@@ -3532,5 +3532,5 @@
 			"id": 1043,
 			"name": "Under(%s) - Video Referee"
 		}
-}
+	]
 }
